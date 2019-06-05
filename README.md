@@ -10,7 +10,7 @@ Copyright piranhaboy (aka turco_92)
 
 7KAA map searcher v1.0
 
-
+---
 ## Table of Contents
 
 I.	What the script do
