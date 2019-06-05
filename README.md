@@ -3,9 +3,13 @@ Map ID Searcher for Seven Kingdoms AA (7kfans.com)
 
 
 7KAA map searcher Readme v1.0
+
 June 1st 2019
+
 Copyright piranhaboy (aka turco_92)
+
 7KAA map searcher v1.0
+
 
 -----------------
 Table of Contents
