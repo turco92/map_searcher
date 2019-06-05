@@ -43,7 +43,7 @@ In random mode you enter a total number of maps you want to search and save. The
 
 Your screenshots of the maps are saved as .png files in \Desktop\saved_mapID.
 
-
+---
 ### II. Requirements
 
 
@@ -53,7 +53,7 @@ Your screenshots of the maps are saved as .png files in \Desktop\saved_mapID.
 - AutoHotkey v1.1.30.03 (ONLY if you want to run .ahk scriptfile)
 - patience (if you want save more than 1.000 maps)
 
-
+---
 ### III. Running the script
 
 
@@ -69,13 +69,13 @@ You can stop and exit the script any time you want by pressing [CTRL]+[S].
 
 The .ahk scriptfile is actually the source code. It is freeware. You can edit the code as you desire.
 
-
+---
 ### IIIa. Running with .EXE File
 
 
 Just copy map_searcher_v1.x.exe and nircmd.exe to your 7KAA folder and run map_searcher_v1.x.exe
 
-
+---
 ### IIIb. Running with .ahk scriptfile
 
 
