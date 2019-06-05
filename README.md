@@ -62,7 +62,9 @@ There are two ways to run the script:
 	- by executing .ahk script file
 
 I offer both methods, as nearly all anti-virus programs block the .exe file. Also nircmd.exe is recognized as malicious (I do not now why). Just make an exception in your anti-virus program.
+
 OR
+
 if you do not trust, run the .ahk scriptfile.
 
 You can stop and exit the script any time you want by pressing [CTRL]+[S].
@@ -80,4 +82,5 @@ Just copy map_searcher_v1.x.exe and nircmd.exe to your 7KAA folder and run map_s
 
 
 Download and install AutoHotkey: https://www.autohotkey.com/
+
 Copy map_searcher_v1.x.ahk and nircmd.exe to your 7KAA folder. Right-Click on map_searcher_v1.x.ahk > "Run Script"
