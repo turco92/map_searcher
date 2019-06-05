@@ -12,10 +12,15 @@ Table of Contents
 -----------------
 
 I.	What the script do
+
 II.	Requirements
+
 III.	Running the script
+
 IIIa.	Running with .EXE File
+
 IIIb.	Running with .ahk scriptfile
+
 
 -----------------
 I. What the script do
