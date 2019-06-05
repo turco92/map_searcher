@@ -83,4 +83,6 @@ Just copy map_searcher_v1.x.exe and nircmd.exe to your 7KAA folder and run map_s
 
 Download and install AutoHotkey: https://www.autohotkey.com/
 
-Copy map_searcher_v1.x.ahk and nircmd.exe to your 7KAA folder. Right-Click on map_searcher_v1.x.ahk > "Run Script"
+Copy map_searcher_v1.x.ahk and nircmd.exe to your 7KAA folder.
+
+Right-Click on map_searcher_v1.x.ahk > "Run Script"
