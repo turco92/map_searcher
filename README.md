@@ -11,9 +11,7 @@ Copyright piranhaboy (aka turco_92)
 7KAA map searcher v1.0
 
 
------------------
-Table of Contents
------------------
+## Table of Contents
 
 I.	What the script do
 
@@ -26,9 +24,8 @@ IIIa.	Running with .EXE File
 IIIb.	Running with .ahk scriptfile
 
 
------------------
-I. What the script do
------------------
+### I. What the script do
+
 
 This script is written with AutoHotkey (v1.1.30.3).
 Mainly it opens 7kaa.exe
@@ -46,9 +43,9 @@ In random mode you enter a total number of maps you want to search and save. The
 
 Your screenshots of the maps are saved as .png files in \Desktop\saved_mapID.
 
------------------
-II. Requirements
------------------
+
+### II. Requirements
+
 
 - Windows 10
 - Seven Kingdoms: Ancient Adversaries (at least v2.15.1)
@@ -56,31 +53,31 @@ II. Requirements
 - AutoHotkey v1.1.30.03 (ONLY if you want to run .ahk scriptfile)
 - patience (if you want save more than 1.000 maps)
 
------------------
-III. Running the script
------------------
+
+### III. Running the script
+
 
 There are two ways to run the script:
 	- by running .exe file
 	- by executing .ahk script file
 
-I offer both methods, as nearly all anti-virus programs block the .exe file. Also nircmd.exe is recognized as malicious (I don`t now why). Just make an exception in your anti-virus program.
+I offer both methods, as nearly all anti-virus programs block the .exe file. Also nircmd.exe is recognized as malicious (I do not now why). Just make an exception in your anti-virus program.
 OR
-if you don`t trust, run the .ahk scriptfile.
+if you do not trust, run the .ahk scriptfile.
 
 You can stop and exit the script any time you want by pressing [CTRL]+[S].
 
-The .ahk scriptfile is actually the source code. It`s freeware. You can edit the code as you desire.
+The .ahk scriptfile is actually the source code. It is freeware. You can edit the code as you desire.
 
------------------
-IIIa. Running with .EXE File
------------------
+
+### IIIa. Running with .EXE File
+
 
 Just copy map_searcher_v1.x.exe and nircmd.exe to your 7KAA folder and run map_searcher_v1.x.exe
 
------------------
-IIIb. Running with .ahk scriptfile
------------------
+
+### IIIb. Running with .ahk scriptfile
+
 
 Download and install AutoHotkey: https://www.autohotkey.com/
 Copy map_searcher_v1.x.ahk and nircmd.exe to your 7KAA folder. Right-Click on map_searcher_v1.x.ahk > "Run Script"
