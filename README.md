@@ -38,9 +38,8 @@ Mainly it opens 7kaa.exe
 - and starts over
 
 There are two modes of the script:
-
-	* Range
-	* Random
+* Range
+* Random
 In range mode you enter a starting map id (RangeBegin) and an end id (RangeEnd). The script now starts making screenshots of all maps of your given range.
 
 In random mode you enter a total number of maps you want to search and save. The script uses a random number for every map.
