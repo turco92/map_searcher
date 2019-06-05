@@ -58,8 +58,8 @@ Your screenshots of the maps are saved as .png files in \Desktop\saved_mapID.
 
 
 There are two ways to run the script:
-	- by running .exe file
-	- by executing .ahk script file
+- by running .exe file
+- by executing .ahk script file
 
 I offer both methods, as nearly all anti-virus programs block the .exe file. Also nircmd.exe is recognized as malicious (I do not now why). Just make an exception in your anti-virus program.
 
